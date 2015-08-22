@@ -4,5 +4,5 @@ Repositorio de prueba para programar en Python.
 
 ## Equipo de trabajo
 
-- Sebastián Rodriguez Serrano -alias el Chingon-
-- Eduardo Acuña Yeomans
+- Eduardo Acuña Yeomans -alias el macana-
+- Sebastián Rodriguez Serrano  -alias el Chingon-
